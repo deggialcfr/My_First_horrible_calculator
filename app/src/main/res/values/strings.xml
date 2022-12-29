@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Cat simulator</string>
+    <string name="welcome_string">Welcome to my app</string>
+
+    <string name="button_text">Do the right thing!</string>
+    <string name="button2_text">Next Cat</string>
+</resources>
